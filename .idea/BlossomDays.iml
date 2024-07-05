@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/app_bar/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/app_bar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/app_bar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/charactor_page_design/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/charactor_page_design/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/charactor_page_design/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/layout_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/layout_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/layout_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/navigator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/navigator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/navigator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/scaffold_messenger/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/scaffold_messenger/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/scaffold_messenger/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/toast_message/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/toast_message/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/toast_message/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/toast_message/ios/.symlinks/plugins/fluttertoast/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/toast_message/ios/.symlinks/plugins/fluttertoast/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/toast_message/ios/.symlinks/plugins/fluttertoast/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/toast_message/ios/.symlinks/plugins/fluttertoast/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/toast_message/ios/.symlinks/plugins/fluttertoast/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy/toast_message/ios/.symlinks/plugins/fluttertoast/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/ios/.symlinks/plugins/flutter_keyboard_visibility/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/ios/.symlinks/plugins/flutter_keyboard_visibility/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/ios/.symlinks/plugins/flutter_keyboard_visibility/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/ios/.symlinks/plugins/flutter_keyboard_visibility/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/ios/.symlinks/plugins/flutter_keyboard_visibility/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/ios/.symlinks/plugins/flutter_keyboard_visibility/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/linux/flutter/ephemeral/.plugin_symlinks/flutter_keyboard_visibility_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/linux/flutter/ephemeral/.plugin_symlinks/flutter_keyboard_visibility_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/linux/flutter/ephemeral/.plugin_symlinks/flutter_keyboard_visibility_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/windows/flutter/ephemeral/.plugin_symlinks/flutter_keyboard_visibility_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/windows/flutter/ephemeral/.plugin_symlinks/flutter_keyboard_visibility_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture1/windows/flutter/ephemeral/.plugin_symlinks/flutter_keyboard_visibility_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/easy2/lecture2/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
